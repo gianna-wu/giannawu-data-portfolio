@@ -45,13 +45,15 @@ This demonstrates basic ML workflow understanding and the ability to integrate M
 
 ## 📸  Screenshots
 <p align="center">
-  <img src="web-design/web-screenshot1.png" width="70%">
+  <img src="web-screenshot1.png" width="70%">
 </p>
+
 <p align="center">
-  <img src="web-design/web-screenshot2.png" width="70%">
+  <img src="web-screenshot2.png" width="70%">
 </p>
+
 <p align="center">
-  <img src="web-design/web-screenshot3.png" width="70%">
+  <img src="web-screenshot3.png" width="70%">
 </p>
 
 
